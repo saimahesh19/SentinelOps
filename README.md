@@ -19,6 +19,6 @@ It leverages:
 ---
 
 ## 🧩 Architecture
+<img width="1073" height="321" alt="image" src="https://github.com/user-attachments/assets/36bf2e44-3030-46a0-a457-bfe35d1cd048" />
 
-![WhatsApp Image 2025-10-08 at 08 20 52_9763c8f5](https://github.com/user-attachments/assets/70e6f407-b99f-48ac-a4df-19bfe37d438c)
 
