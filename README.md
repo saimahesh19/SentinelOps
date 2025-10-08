@@ -20,4 +20,5 @@ It leverages:
 
 ## 🧩 Architecture
 
+![WhatsApp Image 2025-10-08 at 08 20 52_9763c8f5](https://github.com/user-attachments/assets/70e6f407-b99f-48ac-a4df-19bfe37d438c)
 
