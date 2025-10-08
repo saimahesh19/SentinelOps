@@ -159,6 +159,19 @@ kafka-python
 - ✅ Integration with Promtail for log tailing  
 - 🚀 Kubernetes-based scalable deployment  
 - 🔍 Advanced root cause correlation engine  
+---
+## Demo Outputs
+
+<img width="890" height="619" alt="image" src="https://github.com/user-attachments/assets/2daa4a55-25a5-476c-b2ee-d3d49f216938" />
+<img width="965" height="610" alt="image" src="https://github.com/user-attachments/assets/b93fd19b-e37b-412f-9610-7c303a65825f" />
+<img width="559" height="343" alt="image" src="https://github.com/user-attachments/assets/b1d8bbcb-fbb4-42f6-8095-36288989e6fa" />
+<img width="562" height="380" alt="image" src="https://github.com/user-attachments/assets/54316033-7c34-4a25-86cc-b42fac5d8d6d" />
+<img width="1141" height="645" alt="image" src="https://github.com/user-attachments/assets/b40338bc-6bf3-4185-a44e-8a4fe94f8d28" />
+<img width="1145" height="640" alt="image" src="https://github.com/user-attachments/assets/bed0420a-9c15-4321-b454-a7c480ffeee7" />
+<img width="1148" height="646" alt="image" src="https://github.com/user-attachments/assets/184f5bed-8a92-4df0-8674-fcf279b89b28" />
+
+
+
 
 ---
 
