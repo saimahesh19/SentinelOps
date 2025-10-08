@@ -1,0 +1,15 @@
+{
+  "kafka": {
+    "bootstrap_servers": ["localhost:9092"],
+    "topic": "logs-topic",
+    "group_id": "loki-group",
+    "auto_offset_reset": "earliest"
+  },
+  "loki": {
+    "url": "http://localhost:3100/loki/api/v1/push"
+  },
+  "log_stream": {
+    "default_level": "INFO",
+    "default_component": "unknown"
+  }
+}

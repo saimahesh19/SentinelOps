@@ -1,0 +1,11 @@
+groups:
+  - name: log-alerts
+    rules:
+      - alert: RepeatedErrors
+        expr: count_over_time({level="ERROR"}[1m]) > 2
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "More than 2 errors detected"
+          description: "Kafka logs show >2 ERRORs in last 1m"
